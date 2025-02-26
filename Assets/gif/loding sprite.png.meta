@@ -1,0 +1,2200 @@
+fileFormatVersion: 2
+guid: fc9c6405accf939498714ab73b535352
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: loding sprite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2550
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e248b26b62049304ab34ffd351d8d70a
+      internalID: -505135209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loding sprite_1
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 2550
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16859b25e1a34bb448069b5266fa137c
+      internalID: 1079421521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loding sprite_2
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 2550
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9545052a7c109e1498a11f0b19df7fed
+      internalID: -311079898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loding sprite_3
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 2550
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196e5582c813c7a4fbcc517772383b1a
+      internalID: -1870658659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loding sprite_4
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2550
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd4260e7ff6d0444bb52e7c9f013e96
+      internalID: 1592219809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loding sprite_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2400
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9434fae4109193845ab4b5409fc11a95
+      internalID: 1464353652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loding sprite_6
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 2400
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eac69e260e1ff14ca42ac9b069717cc
+      internalID: 1003257710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loding sprite_7
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 2400
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f3f25f09a3d44146a61c2d8031173fa
+      internalID: -771334646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loding sprite_8
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 2400
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336d4a17339b1134a88990535f0c6fca
+      internalID: 299046963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loding sprite_9
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2400
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c65629fc7105f4e96b65baef6d4047
+      internalID: 1212266719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loding sprite_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2250
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca8ecc3ca546f14cad53112fbf46b73
+      internalID: -1633881465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loding sprite_11
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 2250
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a763bd9e1f3309a48a77ebd2c71b0052
+      internalID: -1120968833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loding sprite_12
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 2250
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 462701491d121ef46999caaf08ed88a1
+      internalID: -58461909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loding sprite_13
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 2250
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde5b62786832574aaccc8dff51120ec
+      internalID: -615808370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loding sprite_14
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2250
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63c6e8c3cf0e75439c4b4df096bc505
+      internalID: 59472822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loding sprite_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2100
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7806e00a37e7b684ebee8c6ee8fed6f0
+      internalID: -1446473040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loding sprite_16
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 2100
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f746ad04d8d17294c880c7be57323d1c
+      internalID: 684483991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loding sprite_17
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 2100
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378b9f19e3d1cc945b1501976cfe3437
+      internalID: -42668250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loding sprite_18
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 2100
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e037b7ba7d3219b44830a17576da58fa
+      internalID: -1242360270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loding sprite_19
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2100
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b564e6eca85e243b5d5f0c6a4ad607
+      internalID: 271683574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loding sprite_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1950
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a78ad60860f3e4897a521f13755c6b
+      internalID: -599172697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loding sprite_21
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1950
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f889068ebe34dde4bb5e6300cd69121a
+      internalID: -1019761589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loding sprite_22
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1950
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018b1bfa61054af419c53a3931d8d0fb
+      internalID: 1527788672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loding sprite_23
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1950
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9416f67d5d7e1d94688abf01a10cea61
+      internalID: 26897588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loding sprite_24
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1950
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6852b19a936b6e444a95a9fc5ec7d36f
+      internalID: -94670970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loding sprite_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1800
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82350574e8323549a3b5d572fa10f96
+      internalID: 1816606505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loding sprite_26
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1800
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764fc3063b0e1154a94fcc7d09a7114e
+      internalID: -1511995174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loding sprite_27
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1800
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a8ee11604be994c9efb23dd63229d5
+      internalID: 346675764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loding sprite_28
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1800
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f3870e3d2aa6d45aee6603200f1953
+      internalID: -1973265235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loding sprite_29
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1800
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92ddb23ecceb834a932e45dec557eb6
+      internalID: 1419462766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loding sprite_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1650
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0c4644114d681478837a64f51c4b08
+      internalID: -757094815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loding sprite_31
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1650
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c8528a58bc83c4e9ec77196b0dc74a
+      internalID: 493087961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loding sprite_32
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1650
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d2780bdf1a75334389e02435bc2a6da
+      internalID: 769578024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loding sprite_33
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1650
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d47d161e0b03fd498e9c38d4de33b8f
+      internalID: -1448528998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loding sprite_34
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1650
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00e16e372b7b414a9e24802d0258e73
+      internalID: -834284110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loding sprite_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1500
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aafef6ff4bc3694594d9a2cd44f2ad0
+      internalID: 1068186774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loding sprite_36
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1500
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb2714dc6c89b841b10c452bc8a32ab
+      internalID: -1790515393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loding sprite_37
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1500
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c5d3369b0072d94db743a411e09eb38
+      internalID: -2083425326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loding sprite_38
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1500
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b47cd9b50791e14db7253d9dec96eb4
+      internalID: 1523071316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loding sprite_39
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1500
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14c04a26fdb2984dbf89b0107e7f470
+      internalID: -826613098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loding sprite_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1350
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408f18eeff5eec54d8b469d5966e1598
+      internalID: -1881827789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loding sprite_41
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1350
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e35d953d782b146a798cc2f644cc9f
+      internalID: 1263503961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loding sprite_42
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1350
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704fde53b67fef941b8b0d1fdfac408f
+      internalID: 413017904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loding sprite_43
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1350
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da9b5ddf9c85d441ba9a5406bc34163
+      internalID: 1352828391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loding sprite_44
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1350
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf874cd2b8090354ba9bfb1f26af99c9
+      internalID: -427068526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loding sprite_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aafce8233dafdbb4b80613e779378ada
+      internalID: -1397408087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loding sprite_46
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1200
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13387eaa48b1af94bb6a3e71aeeac3d1
+      internalID: 1951613548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loding sprite_47
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1200
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d661989f80bb17f48b757215924b7252
+      internalID: -1636167656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loding sprite_48
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1200
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de5c1cd556e8224b8d3c285bed71f13
+      internalID: -1507339980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loding sprite_49
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1200
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a107ced14dafdb24c97da1cd65562b6b
+      internalID: 1416306812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loding sprite_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1050
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817471e7419e95c4ca4741ac5a617640
+      internalID: -753418507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loding sprite_51
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1050
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db20a0412ebdbd48ab90d64780e76e9
+      internalID: -971274472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loding sprite_52
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1050
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158fa40ea42a64042a8dd34d451ff1d3
+      internalID: -466745631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loding sprite_53
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1050
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cfb63215d2cfab48a42b9dd3c4382a8
+      internalID: -2060592365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loding sprite_54
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1050
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9928367ec43e92849bd23bb62d894049
+      internalID: -334001906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loding sprite_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 900
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5898bd6474dcc3247a0645e6ee1036f4
+      internalID: 1715977659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loding sprite_56
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 900
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba3ae1fa68f1bc4a9711a59a3473ef6
+      internalID: 2049007996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loding sprite_57
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 900
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a04af4ec7369de549b7bc4680d50ccad
+      internalID: 18593720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loding sprite_58
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 900
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b548a93d634f9224a90dd17951664150
+      internalID: -912993962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loding sprite_59
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 900
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae6dfe82e1e99d4094d477c570e7035
+      internalID: -340129336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loding sprite_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 750
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c3f337f07f81c4bb7b7ddf573cc634
+      internalID: -1887854391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loding sprite_61
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 750
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88fed281ea634747a5139b1d8380caa
+      internalID: 1209443022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loding sprite_62
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 750
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3228cd8f318add4899729c7f3638d91
+      internalID: -1663346692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loding sprite_63
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 750
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c6fd35a266d0a42932cda6d3639f4b
+      internalID: -1168760278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loding sprite_64
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 750
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 379f34c3b2ec1a14eb43e50cf3f6abdf
+      internalID: -1865770123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loding sprite_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0fa7515168c92c46896f948b8ccd0c8
+      internalID: -1198872741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loding sprite_66
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 600
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 117522c32a2866a408f7f06c65c351b4
+      internalID: 576553345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loding sprite_67
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 600
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b77b9255709fb469e02a4e665c47b8
+      internalID: 459710818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loding sprite_68
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 600
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c938b727ebc5b4b99b2b33b487f129
+      internalID: -841225151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loding sprite_69
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 600
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c75af974978204c9d6a3017c5da302
+      internalID: -478329391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loding sprite_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 450
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ba40f50a46e9a418b0cd0b5da76b98
+      internalID: -1996599626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loding sprite_71
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 450
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e074e3c0b9e2b2840a2d6d9803e768d4
+      internalID: -780920347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loding sprite_72
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 450
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44eb9cbea7310b14e93ce5b2e514702a
+      internalID: 1250744662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loding sprite_73
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 450
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c3c9d2554002d741ae4d36fe4107d6a
+      internalID: -638185733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loding sprite_74
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 450
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a49706acf3b54424baa0ccf36f51b130
+      internalID: 1399331004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loding sprite_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15419e2913f33244a9148a94f88c1d39
+      internalID: 1077296993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loding sprite_76
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 300
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5be54ec1782d3243ae9e57e4a537171
+      internalID: 755939574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loding sprite_77
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 300
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e907ad25520218443b778e97e3144e7e
+      internalID: -1044628646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loding sprite_78
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 300
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7884623ee4dd2994fa0fb60979908b13
+      internalID: 1232215473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loding sprite_79
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 300
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb4dc5e3d3d09948b7412d3bc13dfbb
+      internalID: -1122310756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loding sprite_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a7fc5ced47c354fb86db05b351e786
+      internalID: -191605686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loding sprite_81
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 150
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba7a4351780de641835781f4bf663a8
+      internalID: 1755239514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loding sprite_82
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 150
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97697bbf47a3ec4fb932c334d9d9697
+      internalID: -1556289703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loding sprite_83
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 150
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa6f9bbfa4dadf4485856ba073b344b
+      internalID: 1362157409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loding sprite_84
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 150
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c31169ec67c2644498d9dd8af5791a7
+      internalID: 1990193240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loding sprite_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9ce7ea8c8d81d44923798932bf3a85
+      internalID: -1119777905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loding sprite_86
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0216ed757aab8ec40a19729683fc65ea
+      internalID: -1760457081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loding sprite_87
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3afa8bed1c4e544cbcbf0e92b04718f
+      internalID: 795578576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loding sprite_88
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572ed4240d58e0c45936a6aa6c048fd9
+      internalID: -1942704610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loding sprite_89
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1cabe714605d64c97e8d33ac7f9c2b
+      internalID: 500957577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e30d0d7a430ede94e9fda4e8bdcbd3d0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      loding sprite_0: -505135209
+      loding sprite_1: 1079421521
+      loding sprite_10: -1633881465
+      loding sprite_11: -1120968833
+      loding sprite_12: -58461909
+      loding sprite_13: -615808370
+      loding sprite_14: 59472822
+      loding sprite_15: -1446473040
+      loding sprite_16: 684483991
+      loding sprite_17: -42668250
+      loding sprite_18: -1242360270
+      loding sprite_19: 271683574
+      loding sprite_2: -311079898
+      loding sprite_20: -599172697
+      loding sprite_21: -1019761589
+      loding sprite_22: 1527788672
+      loding sprite_23: 26897588
+      loding sprite_24: -94670970
+      loding sprite_25: 1816606505
+      loding sprite_26: -1511995174
+      loding sprite_27: 346675764
+      loding sprite_28: -1973265235
+      loding sprite_29: 1419462766
+      loding sprite_3: -1870658659
+      loding sprite_30: -757094815
+      loding sprite_31: 493087961
+      loding sprite_32: 769578024
+      loding sprite_33: -1448528998
+      loding sprite_34: -834284110
+      loding sprite_35: 1068186774
+      loding sprite_36: -1790515393
+      loding sprite_37: -2083425326
+      loding sprite_38: 1523071316
+      loding sprite_39: -826613098
+      loding sprite_4: 1592219809
+      loding sprite_40: -1881827789
+      loding sprite_41: 1263503961
+      loding sprite_42: 413017904
+      loding sprite_43: 1352828391
+      loding sprite_44: -427068526
+      loding sprite_45: -1397408087
+      loding sprite_46: 1951613548
+      loding sprite_47: -1636167656
+      loding sprite_48: -1507339980
+      loding sprite_49: 1416306812
+      loding sprite_5: 1464353652
+      loding sprite_50: -753418507
+      loding sprite_51: -971274472
+      loding sprite_52: -466745631
+      loding sprite_53: -2060592365
+      loding sprite_54: -334001906
+      loding sprite_55: 1715977659
+      loding sprite_56: 2049007996
+      loding sprite_57: 18593720
+      loding sprite_58: -912993962
+      loding sprite_59: -340129336
+      loding sprite_6: 1003257710
+      loding sprite_60: -1887854391
+      loding sprite_61: 1209443022
+      loding sprite_62: -1663346692
+      loding sprite_63: -1168760278
+      loding sprite_64: -1865770123
+      loding sprite_65: -1198872741
+      loding sprite_66: 576553345
+      loding sprite_67: 459710818
+      loding sprite_68: -841225151
+      loding sprite_69: -478329391
+      loding sprite_7: -771334646
+      loding sprite_70: -1996599626
+      loding sprite_71: -780920347
+      loding sprite_72: 1250744662
+      loding sprite_73: -638185733
+      loding sprite_74: 1399331004
+      loding sprite_75: 1077296993
+      loding sprite_76: 755939574
+      loding sprite_77: -1044628646
+      loding sprite_78: 1232215473
+      loding sprite_79: -1122310756
+      loding sprite_8: 299046963
+      loding sprite_80: -191605686
+      loding sprite_81: 1755239514
+      loding sprite_82: -1556289703
+      loding sprite_83: 1362157409
+      loding sprite_84: 1990193240
+      loding sprite_85: -1119777905
+      loding sprite_86: -1760457081
+      loding sprite_87: 795578576
+      loding sprite_88: -1942704610
+      loding sprite_89: 500957577
+      loding sprite_9: 1212266719
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
